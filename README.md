@@ -1,1 +1,1 @@
-# gioco-in-c
+This game is completly in italian, sorry for that
